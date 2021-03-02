@@ -9,14 +9,14 @@ cd ..
 # 4 - What is a quick way to create a new folder?
 create new folder, folder name
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
-Opens new folder. 
+lists out the files in the folders
 # 6 - What is a quick way to create a new file?
-git add
+touch
 # 7 - Run 'git --version' in your terminal. What is the output?
-command not found
+2.27.0
 # 8 - Why would you run the command 'git status'?
-Add repositor
+Tells the current status of files in project
 # 9 - What does the command 'git add .' do?
-Adds all files to the folder
+Adds files and changes to the status area.
 # 10 - What is the command to push your committed changes to your repo on GitHub?
 git push origin master
